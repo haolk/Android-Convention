@@ -27,7 +27,7 @@ Mỗi dev có một sở thích cá nhân mạnh mẽ, có thể họ không mu�
 
 Những bạn mới thường có tư tưởng “hoàn thành” đồng nghĩa với “chạy được”, chỉ quan tâm bề ngoài ứng dụng chứ không quan tâm chất lượng source code.
 
-AsianTech android coding conventions
+Android coding conventions
 ------------------------------------
 
 1.  Quy định về java
