@@ -326,10 +326,10 @@ ví dụ: btnLogin, tvCaption
 -   Cách đặt tên cho file XML
 
 ``` java
-•   Item cho list view: item_list_*
-•   Item cho grid view: item_grid_*
-•   Custom cho view: custom_*
-•   Custom cho dialog: dialog_*
+•   Item cho list view: *_item_list
+•   Item cho grid view: *_item_grid
+•   Custom cho view: *_custom
+•   Custom cho dialog: *_dialog
 ```
 
 Ví dụ:
@@ -342,6 +342,13 @@ Ví dụ:
 -   Đặt tên resource string, color, dimen
 
 Yes
+``` xml
+<string name="network_error">Network error</string>
+<string name="call_failed">Call failed</string>
+<string name="map_failed">Map loading failed</string>
+```
+
+-No
 
 ``` xml
 <string name="dialog.shake.title">Dialog title here</string>
@@ -350,14 +357,6 @@ Yes
 <string name="error.message.network_error">Network error</string>
 <string name="error.message.call_failed">Call failed</string>
 <string name="error.message.map_loading_failed">Map loading failed</string>
-```
-
--No
-
-``` xml
-<string name="network_error">Network error</string>
-<string name="call_failed">Call failed</string>
-<string name="map_failed">Map loading failed</string>
 ```
 
 -   Đặt tên cho hình ảnh sử dụng:
