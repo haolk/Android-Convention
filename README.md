@@ -287,6 +287,10 @@ try {
 
 ### Quy ước XML
 
+-   Đặt tên container:
+* Acitivity: *_act
+* Fragment: *_frag
+
 -   Đặt tên views ID theo camel-case
 
 ví dụ: btnLogin, tvCaption
