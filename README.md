@@ -321,8 +321,8 @@ ví dụ: btnLogin, tvCaption
 •   ImageButton=> imgBtn
 •   Layout parent => container
 •   LayoutChild ==> ll,rl,fr
-•   RecycleView =>recycleView
-•   CardView =>cardView
+•   RecycleView => rv
+•   CardView => cv
 •   ScrollView => scrollView
 ```
 
